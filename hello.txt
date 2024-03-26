@@ -2,3 +2,4 @@
 - how to commit 
 - push
 - would you kindly?
+- Sander Cohen
